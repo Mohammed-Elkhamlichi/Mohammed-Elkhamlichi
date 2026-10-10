@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
 
-<!--
-**Mohammed-Elkhamlichi/Mohammed-Elkhamlichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | SQL • Excel • Power BI
 
-Here are some ideas to get you started:
+I'm an Economics graduate and former Full-Stack Web Developer transitioning into Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm developing practical skills in data analysis to turn raw data into meaningful insights that support business decisions.
+
+## 🛠️ Skills
+
+- **SQL:** PostgreSQL, filtering, joins, aggregations
+- **Excel:** Currently learning data cleaning and analysis
+- **Power BI:** Currently learning dashboards and data visualization
+- **Programming:** Python, JavaScript
+
+## 📊 Data Analytics Portfolio
+
+- **SQL Job Market Analysis:** Analyzing Data Analyst job postings using PostgreSQL. *(In progress)*
+- **Excel Sales Analysis:** Coming soon.
+- **Power BI Dashboard:** Coming soon.
+
+## 🌐 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/mohammed-elkhamlichi)
+- [GitHub](https://github.com/Mohammed-Elkhamlichi)
