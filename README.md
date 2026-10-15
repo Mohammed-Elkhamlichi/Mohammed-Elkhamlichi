@@ -16,7 +16,6 @@ I'm developing practical skills in data analysis to turn raw data into meaningfu
 ## 📊 Data Analytics Portfolio
 
 - **SQL Job Market Analysis:** Analyzing Data Analyst job postings using PostgreSQL.**[`(completed)`](https://github.com/Mohammed-Elkhamlichi/Job_Analysis_Project_With_SQL)**
-- <a href="https://github.com/Mohammed-Elkhamlichi/Job_Analysis_Project_With_SQL" target="_blank">**completed**</a>
 - **Excel Sales Analysis:** Coming soon.
 - **Power BI Dashboard:** Coming soon.
 
